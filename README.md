@@ -1,5 +1,5 @@
 [![MasterHead](https://miro.medium.com/v2/resize:fit:1200/0*cl7fc6pt1MHjIF4K.png)](https://rishavchanda.io)
-<h1 align="center"> ZELALEM WUBET</h1>
+<h1 align="center"> Zelalem Wubet</h1>
 <h3 align="center">Full-Stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zol23-g&label=Profile%20views&color=0e75b6&style=flat" alt="zol23-g" /> </p>
